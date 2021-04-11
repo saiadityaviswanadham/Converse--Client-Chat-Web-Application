@@ -2,9 +2,9 @@
 
 ## Services Used: 
 
-### Firebase Authentication
-### Cloud Firestore
-### Firebase SDK for Cloud Storage
-### Firebase Cloud Messaging
-### Firebase Performance Monitoring
-### Firebase Hosting
+Firebase Authentication
+Cloud Firestore
+Firebase SDK for Cloud Storage
+Firebase Cloud Messaging
+Firebase Performance Monitoring
+Firebase Hosting
